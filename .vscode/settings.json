@@ -5,6 +5,7 @@
         "hoeffding",
         "itemset",
         "itemsets",
-        "wfpt"
+        "wfpt",
+        "WPMFIM"
     ]
 }
