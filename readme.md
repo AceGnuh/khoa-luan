@@ -17,7 +17,7 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > 
 
 ## Thuật toán được cài đặc bằng ngôn ngữ : 
-> Python
+> Python (ipynb)
 > 
 > Version: 3.12
 > 
