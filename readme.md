@@ -1,4 +1,4 @@
-# Nghiên cứu khai phá các tập mục phổ biến tối đa xác suất có trọng số
+# NGHIÊN CỨU KHAI PHÁ CÁC TẬP MỤC PHỔ BIẾN TỐI ĐA XÁC SUẤT CÓ TRỌNG SỐ
 
 Bài báo cáo được cải biên dựa trên những bài báo
 
