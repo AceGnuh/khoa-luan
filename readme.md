@@ -21,7 +21,7 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > 
 > Version: 3.12
 > 
-> Thực thi thuật toán: Download dataset từ Google Drive vào thư mục -> Mở VsCode -> Run all cell
+> Thực thi thuật toán: Download dataset từ Google Drive vào thư mục data -> Mở VsCode -> Run all cell
 
 ##  Dataset được lưu bằng Google Drive
 > Link: https://drive.google.com/drive/folders/1GSBBM_jUCBzddf6w80WwAJce0prxZJ7y?usp=drive_link
