@@ -9,11 +9,11 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > Approximation of Probabilistic Maximal Frequent Itemset Mining Over Uncertain Sensed Data
 
 # Cấu trúc dự án
-> code: chứa source code cho các thuật toán
+> source: chứa source code cho các thuật toán
 > 
-> references: chứa các bài báo tham khảo
+> resource: chứa các dataset được sử dụng trong báo cáo
 > 
-> report: chứa file báo cáo
+> docx, pdf: bài báo cáo
 > 
 
 ## Thuật toán được cài đặc bằng ngôn ngữ : 
@@ -21,7 +21,10 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > 
 > Version: 3.12
 > 
-> Thực thi thuật toán: Download dataset từ Google Drive vào thư mục data -> Mở VsCode -> Run all cell
+> Thực thi thuật toán: Download dataset từ Google Drive 
+> (hoặc sử dụng dataset từ thư mục resource) vào thư mục data 
+> -> Mở VsCode 
+> -> Run all cell
 
 ##  Dataset được lưu bằng Google Drive
 > Link: https://drive.google.com/drive/folders/1GSBBM_jUCBzddf6w80WwAJce0prxZJ7y?usp=drive_link
