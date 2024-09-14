@@ -13,7 +13,7 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > 
 > code/data: chứa các dataset được sử dụng trong báo cáo
 > 
-> docx, pdf: bài báo cáo
+> report: chứa bài báo cáo, silde thuyết trình,...
 > 
 
 ## Thuật toán được cài đặc bằng ngôn ngữ : 
