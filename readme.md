@@ -9,9 +9,9 @@ Bài báo cáo được cải biên dựa trên những bài báo
 > Approximation of Probabilistic Maximal Frequent Itemset Mining Over Uncertain Sensed Data
 
 # Cấu trúc dự án
-> source: chứa source code cho các thuật toán
+> code: chứa source code cho các thuật toán
 > 
-> resource: chứa các dataset được sử dụng trong báo cáo
+> code/data: chứa các dataset được sử dụng trong báo cáo
 > 
 > docx, pdf: bài báo cáo
 > 
